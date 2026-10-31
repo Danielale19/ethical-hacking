@@ -19,7 +19,7 @@ Une reconnaissance passive est menée à partir d'une simple publication LinkedI
 3. **Synthèse et niveau de fiabilité** – croisement et hiérarchisation des sources
 4. **Chaîne d'attaque** – enchaînement des vecteurs exploitables
 5. **Phase 3 – Gaining Access** – ingénierie sociale par message vocal (voix clonée) et macro malveillante
-6. **Phase 4 – Maintaining Access & élévation de privilèges**
+6. **Phase 4 – Maintaining Access & élévation de privilèges** : [CVE-2021-1675](https://nvd.nist.gov/vuln/detail/cve-2021-1675)
 7. **Phase 5 – Covering Tracks** – effacement des traces d'intrusion
 8. **Conclusion**
 
